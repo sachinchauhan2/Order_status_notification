@@ -1,0 +1,2 @@
+Unique_Trade_No,variety,tradingsymbol,symboltoken,transactiontype,exchange,ordertype,producttype,duration,price,squareoff,stoploss,quantity,status,Client_code,time,Algo_checkflag,Algo_Runcount,Algo_updatetime,reasons,orderstatus,order_id
+nan,NORMAL,SBIN-EQ,3045,BUY,NSE,MARKET,INTRADAY,DAY,194.5,0,0,1,nan,nan,nan,No,rejected,20-09-2022 15:36:24,RMS: Auto Square Off Block,nan,220920000715828
